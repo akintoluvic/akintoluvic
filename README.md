@@ -21,12 +21,12 @@
 
 Welcome to my page, I am a self taught, goal achieving, determined guy that enjoys solving problems.
 
-- 🔭 I’m currently working on myself.
+- 🔭 I’m currently working on open source and writing articles.
 - 🌱 I’m currently learning how to be a very versertile software engineer. 
-- 👯 I’m looking to collaborate on projects that would make me think more and code less and add more to my bank balance.
+- 👯 I’m looking to collaborate on projects that would make me think more and develop my skills further.
 - 💬 Ask me about anything, if I don't know it, I would get back to you.
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I'm really not a hard guy 😄. I enjoy good music and relaxing at the beach.
+- ⚡ Fun fact: I'm really not a hard guy 😄. I enjoy good music and playing the guitar.
 
 <details>
   <summary><h2>📊 Statistics</h2></summary>
