@@ -19,10 +19,9 @@
 <br />
 <br />
 
-Welcome to my page, I am a self taught, goal achieving, determined guy that enjoys solving problems.
+Welcome to my page, I am a self taught developer, working on creating educational contents.
 
-- 🔭 I’m currently working on open source and writing articles.
-- 🌱 I’m currently learning how to be a very versertile software engineer. 
+- 🔭 I’m currently working on tutorials and writing articles.
 - 👯 I’m looking to collaborate on projects that would make me think more and develop my skills further.
 - 💬 Ask me about anything, if I don't know it, I would get back to you.
 - 😄 Pronouns: Him/He
