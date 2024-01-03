@@ -4,7 +4,7 @@
   <h1>I'm Akintunde Victor</h1>
   
   <div align="center">
-    <a target="_blank" href="https://victora.dev">
+    <a target="_blank" href="https://codewithvick.com">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=victora.dev&style=flat&logo=amp&logoColor=ffffff&labelColor=334155">
     </a>
     <a target="_blank" href="https://twitter.com/akintoluvic">
