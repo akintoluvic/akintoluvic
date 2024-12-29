@@ -4,4 +4,4 @@ I'm a [Design Engineer](https://www.linkedin.com/in/akintoluvic/), amateur guita
 
 [My personal website &rarr;](https://codewithvick.com)<br />
 [@akintoluvic on Twitter &rarr;](https://twitter.com/akintoluvic)<br />
-[@akintoluvic on Twitter &rarr;](https://linkedin.com/in/akintoluvic)
+[@akintoluvic on Linkedin &rarr;](https://linkedin.com/in/akintoluvic)
